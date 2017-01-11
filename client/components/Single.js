@@ -13,7 +13,7 @@ const Single = React.createClass({
 
         </video>
         <span>
-          {tech.inputs}
+          Inputs: {tech.inputs}
         </span>
         <p>
           {tech.description}

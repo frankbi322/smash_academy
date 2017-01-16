@@ -9,7 +9,7 @@ const Single = React.createClass({
     return (
       <div className="single-photo">
         <h2>{tech.tech}</h2>
-        <video className="video" autoPlay src={tech.videosrc} controls loop>
+        <video className="video" autoPlay src={tech.videosrc} loop>
 
         </video>
         <span>

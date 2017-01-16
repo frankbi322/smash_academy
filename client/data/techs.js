@@ -282,7 +282,8 @@ const techs = [
   "url":"WiltedDazzlingGlassfrog","description":"Marth wavedashes, moonwalks and stickywalks in that order (moonwalk part is Dash 1-26)","score":"0","created_at":"-0001-11-30 00:00:00","updated_at":"-0001-11-30 00:00:00"}]},
 
   {"id":"31",
-  "tech":"Shield Drop","description":"A technique that allows for your character to smoothly fall through a soft platform while shielding","smashwiki":"http:\/\/www.ssbwiki.com\/Shield_platform_dropping","inputs":"",
+  "tech":"Shield Drop","description":"A technique that allows for your character to smoothly fall through a soft platform while shielding","smashwiki":"http:\/\/www.ssbwiki.com\/Shield_platform_dropping",
+  "inputs":"down + shield",
   'src':'https://thumbs.gfycat.com/OddEmbellishedAmazontreeboa-poster.jpg',
   'videosrc':'https://zippy.gfycat.com/OddEmbellishedAmazontreeboa.webm',
   "created_at":"-0001-11-30 00:00:00","updated_at":"-0001-11-30 00:00:00","gifs":[{"id":"1868","typeid":"2","dataid":"31","source":"http:\/\/www.reddit.com\/r\/smashbros","submittedby":"0","url":"OddEmbellishedAmazontreeboa","description":"A shield drop demonstrated alongside the controller inputs","score":"0","created_at":"-0001-11-30 00:00:00","updated_at":"-0001-11-30 00:00:00"}]},
@@ -355,8 +356,8 @@ const techs = [
   "description":"Boost grabbing is a technique in which the momentum from a character's dash attack is transferred into a dash grab, resulting in a longer ranged dash grab. To perform the boost grab, the player must first dash. Then, press the attack button while dashing to perform a dash attack, then press the grab button immediately within the first frame to grab. If done correctly, the dash attack will be cance",
   "smashwiki":"http:\/\/www.ssbwiki.com\/Boost_grab",
   "inputs":"",
-  'src:':'https://thumbs.gfycat.com/SarcasticVictoriousDevilfish-poster.jpg',
-  'videosrc':'https://zippy.gfycat.com/SarcasticVictoriousDevilfish.webm',
+  'src:':'/images/thumb/6/6b/BoostGrab-Brawl.gif/200px-BoostGrab-Brawl.gif',
+  'videosrc':'https://zippy.gfycat.com/WarpedMelodicClownanemonefish.mp4',
   "created_at":"2015-11-18 22:24:58",
   "updated_at":"2015-11-18 22:24:58",
   "gifs":[]}]

@@ -1,5 +1,5 @@
 {
-  "name": "learn-redux",
+  "name": "smash-academy",
   "version": "1.0.0",
   "description": ":) ",
   "scripts": {
@@ -14,7 +14,7 @@
     "type": "git",
     "url": "https://github.com/frankbi322/smash-academy.git"
   },
-  "author": "Frank",
+  "author": "Frank Bi",
   "license": "MIT",
   "homepage": "https://github.com/frankbi322/smash-academy",
   "dependencies": {

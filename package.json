@@ -12,11 +12,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/frankbi322/smash-academy.git"
+    "url": "https://github.com/frankbi322/smash_academy.git"
   },
   "author": "Frank Bi",
   "license": "MIT",
-  "homepage": "https://github.com/frankbi322/smash-academy",
+  "homepage": "https://github.com/frankbi322/smash_academy",
   "dependencies": {
     "babel-core": "^6.7.7",
     "babel-eslint": "^6.0.4",

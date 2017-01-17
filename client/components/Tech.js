@@ -13,7 +13,7 @@ const Tech = React.createClass({
         </Link>
         </div>
           <figcaption>
-            <p class="centered">{tech.tech}</p>
+            <p className="centered">{tech.tech}</p>
           </figcaption>
 
       </figure>
